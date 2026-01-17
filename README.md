@@ -22,3 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="go" width="40" height="40"/>&nbsp;
 </p>
+
+## Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dityaptra?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
