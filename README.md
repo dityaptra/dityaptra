@@ -24,4 +24,7 @@
 </p>
 
 ## Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dityaptra?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<div align="center">
+  <a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/dityaptra?cardType=github&theme=dark&preferLogin=false" height="180" alt="stats-card" /></a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dityaptra&theme=dark&hide_border=false" height="180" alt="streak-stats" />
+</div>
